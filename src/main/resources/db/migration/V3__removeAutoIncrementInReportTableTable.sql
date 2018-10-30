@@ -1,0 +1,1 @@
+ALTER TABLE report_data MODIFY data_id int NOT NULL

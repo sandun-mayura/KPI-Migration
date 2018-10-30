@@ -1,4 +1,4 @@
-Drop TABLE if EXISTS team
+
 CREATE TABLE team(
   team_id int NOT NULL AUTO_INCREMENT,
   team_name varchar(50),
