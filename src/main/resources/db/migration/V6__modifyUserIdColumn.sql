@@ -1,1 +1,1 @@
-ALTER TABLE user MODIFY user_id int NOT NULL
+ALTER TABLE user MODIFY user_id bigint(20)
